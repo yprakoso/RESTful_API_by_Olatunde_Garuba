@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba/issues"
   },
-  "homepage": "https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba#readme"
+  "homepage": "https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }

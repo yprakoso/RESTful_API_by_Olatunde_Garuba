@@ -1,0 +1,19 @@
+{
+  "name": "restdul_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba/issues"
+  },
+  "homepage": "https://github.com/yprakoso/RESTful_API_by_Olatunde_Garuba#readme"
+}

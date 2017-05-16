@@ -2,6 +2,8 @@ var express = require('express');
 var app = express();
 var port = process.env.PORT || 3000;
 var bodyParser = require('body-parser');
+var mongoose = require('mongoose');
+var Task = require('./api/models/todoListModel');
 
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost/Tododb');
